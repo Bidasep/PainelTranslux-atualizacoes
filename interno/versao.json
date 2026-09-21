@@ -1,0 +1,17 @@
+{
+    "versaoManifesto": 2,
+    "produto": "PainelTranslux",
+    "canal": "interno",
+    "versao": "3.0.0-beta.2",
+    "publicadoEm": "2026-09-21T00:36:34-03:00",
+    "tipoPacote": "portatil-zip",
+    "pacoteUrl": "https://github.com/Bidasep/PainelTranslux-atualizacoes/releases/download/v3.0.0-beta.2/PainelTranslux-3.0.0-beta.2.zip",
+    "sha256": "dcf4b234f53010dd2561b76ec181e40babe2578b984a411ca6eef037b4f4aa30",
+    "tamanhoBytes": 106160512,
+    "obrigatoria": false,
+    "notas": [
+        "Primeiro teste público da atualização automática.",
+        "Adicionada recuperação automática da versão anterior em caso de falha.",
+        "Reduzido o tamanho da distribuição com a remoção do Qt WebEngine não utilizado."
+    ]
+}
