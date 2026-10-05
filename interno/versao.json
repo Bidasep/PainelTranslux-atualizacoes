@@ -2,16 +2,16 @@
     "versaoManifesto": 2,
     "produto": "PainelTranslux",
     "canal": "interno",
-    "versao": "3.0.0-beta.3",
-    "publicadoEm": "2026-09-21T01:05:55-03:00",
+    "versao": "3.0.0-rc.3",
+    "publicadoEm": "2026-10-04T23:52:51-03:00",
     "tipoPacote": "portatil-zip",
-    "pacoteUrl": "https://github.com/Bidasep/PainelTranslux-atualizacoes/releases/download/v3.0.0-beta.3/PainelTranslux-3.0.0-beta.3.zip",
-    "sha256": "f0cde53332ec6d7e759ec8c848483cd3d82c17a26893e7f939ad95b7c841f905",
-    "tamanhoBytes": 106162017,
+    "pacoteUrl": "https://github.com/Bidasep/PainelTranslux-atualizacoes/releases/download/v3.0.0-rc.3/PainelTranslux-3.0.0-rc.3.zip",
+    "sha256": "1415bb735ed73d5101bbecb053855388f04c9ffec845fe22d331a943a8a116a9",
+    "tamanhoBytes": 106455024,
     "obrigatoria": false,
     "notas": [
-        "Removida a janela de console exibida durante a execução do programa.",
-        "Mantida a atualização portátil com backup e recuperação automática.",
-        "Primeira versão preparada para teste em um segundo computador."
+        "Atualizada a janela Sobre com links de contato, ícones e botão de fechamento no cabeçalho.",
+        "Adicionada rolagem às mensagens de resultado da atualização.",
+        "Melhorada a orientação quando o Windows bloqueia a abertura da atualização."
     ]
 }
