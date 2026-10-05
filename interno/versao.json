@@ -2,16 +2,14 @@
     "versaoManifesto": 2,
     "produto": "PainelTranslux",
     "canal": "interno",
-    "versao": "3.0.0-beta.3",
-    "publicadoEm": "2026-09-21T01:05:55-03:00",
+    "versao": "3.0.0-rc.1",
+    "publicadoEm": "2026-10-04T20:59:13-03:00",
     "tipoPacote": "portatil-zip",
-    "pacoteUrl": "https://github.com/Bidasep/PainelTranslux-atualizacoes/releases/download/v3.0.0-beta.3/PainelTranslux-3.0.0-beta.3.zip",
-    "sha256": "f0cde53332ec6d7e759ec8c848483cd3d82c17a26893e7f939ad95b7c841f905",
-    "tamanhoBytes": 106162017,
+    "pacoteUrl": "https://github.com/Bidasep/PainelTranslux-atualizacoes/releases/download/v3.0.0-rc.1/PainelTranslux-3.0.0-rc.1.zip",
+    "sha256": "3cb7aff7ffa81d611a12a6298b4f25c1f973877b2442cea9da95039809403f04",
+    "tamanhoBytes": 106453247,
     "obrigatoria": false,
     "notas": [
-        "Removida a janela de console exibida durante a execução do programa.",
-        "Mantida a atualização portátil com backup e recuperação automática.",
-        "Primeira versão preparada para teste em um segundo computador."
+        "Versão candidata para teste geral do PainelTranslux."
     ]
 }
