@@ -2,16 +2,16 @@
     "versaoManifesto": 2,
     "produto": "PainelTranslux",
     "canal": "interno",
-    "versao": "3.0.0",
-    "publicadoEm": "2026-11-06T01:07:41-03:00",
+    "versao": "3.0.1",
+    "publicadoEm": "2026-11-23T02:16:01-03:00",
     "tipoPacote": "portatil-zip",
-    "pacoteUrl": "https://github.com/Bidasep/PainelTranslux-atualizacoes/releases/download/v3.0.0/PainelTranslux-3.0.0.zip",
-    "sha256": "b2f32f9bbc9c9057fe80b63afd072c6e6abbb269a3e00b8107ad8204cecda8e4",
-    "tamanhoBytes": 108568626,
+    "pacoteUrl": "https://github.com/Bidasep/PainelTranslux-atualizacoes/releases/download/v3.0.1/PainelTranslux-3.0.1.zip",
+    "sha256": "1af8b318a796c39183ab87a4d84c12a55ab4898b113a2dc207b7fa516089d9b2",
+    "tamanhoBytes": 108600728,
     "obrigatoria": false,
     "notas": [
-        "Primeira versão estável do PainelTranslux 3.0.",
-        "Integração de Multilinhas e Tarifa, editor de glifos e relatórios do projeto.",
-        "Melhorias na edição, no espaçamento dos caracteres e na compatibilidade com arquivos legados."
+        "Melhorias nas fontes e na visualização de Multilinhas e Tarifa.",
+        "Ajustes na inserção e identificação de imagens e no alinhamento de trechos de texto.",
+        "Compatibilidade com arquivos Multilinhas antigos e inclusão de imagens no formato Multilinhas versão 2.",
     ]
 }
